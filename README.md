@@ -2,7 +2,7 @@
 
 [Wasmtime]: https://github.com/cranestation/wasmtime
 
-Homebrew and Caskroom Tap for CraneStation.
+Homebrew Tap for CraneStation.
 
 ## Usage
 You can use this tap to install current stable release of [Wasmtime] and
@@ -17,6 +17,6 @@ brew tap cranestation/cranestation
 To install [Wasmtime], run:
 
 ```
-brew cask install wasmtime
+brew install wasmtime
 ```
 
